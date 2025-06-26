@@ -246,7 +246,7 @@ textarea {
 }
 
 * {
-  border: 1px solid red;
+  /*border: 1px solid red;*/
   box-sizing: border-box;
 }
 
@@ -271,4 +271,8 @@ main {
 
 footer {
   height: 200px;
+}
+
+form #prompt_container, form .genres_container, form .languages_container {
+  display:none;
 }
