@@ -21,7 +21,7 @@ Użytkownik może pozwolić AI na wygenerowanie listy piosenek na podstawie prom
 - Konfiguracja: plik .htaccess
 
 ### Przykład pliku .htaccess
-SetEnv SPOTIFY_CLIENT_ID *twoj_spotify_client_id*
+SetEnv SPOTIFY_CLIENT_ID *twoj_spotify_client_id*<br>
 SetEnv OPENAI_API_KEY *twoj_openai_api_key*
 
 ## Sposób użycia
@@ -37,7 +37,7 @@ SetEnv OPENAI_API_KEY *twoj_openai_api_key*
 ## Status
 MVP - podstawowa funkcjonalność działa
 
-Plany rozwoju
+###Plany rozwoju
 - Lepsze zarządzanie błędami
 - Refraktoryzacja kodu - stworzenie funkcji do zarządzania żądaniami
 - Dodanie obsługi Refresh Tokenu
