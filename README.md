@@ -37,7 +37,7 @@ SetEnv OPENAI_API_KEY *twoj_openai_api_key*
 ## Status
 MVP - podstawowa funkcjonalność działa
 
-###Plany rozwoju
+### Plany rozwoju
 - Lepsze zarządzanie błędami
 - Refraktoryzacja kodu - stworzenie funkcji do zarządzania żądaniami
 - Dodanie obsługi Refresh Tokenu
