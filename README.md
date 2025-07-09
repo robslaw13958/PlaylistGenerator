@@ -11,6 +11,16 @@ Użytkownik może pozwolić AI na wygenerowanie listy piosenek na podstawie prom
 - **Eksport do Spotify**: Jednym kliknięciem stwórz playlistę na swoim koncie Spotify
 - **Podgląd rezultatu**: Po utworzeniu playlisty wyświetla się jej nazwa, opis i link
 
+### Zrzuty ekranu
+
+#### 1. Ekran po uruchomieniu aplikacji
+![image](https://github.com/user-attachments/assets/c594f2bd-19e7-499f-89f3-a01fdb36323f)
+#### 2. Wprowadzenie danych i kliknięcie 'WYGENERUJ PIOSENKI' - lista pojawia się po prawej stronie
+![image](https://github.com/user-attachments/assets/85a309d3-52e4-46d7-8382-eb9265775710)
+#### 3. Po kliknięciu 'STWÓRZ PLAYLISTĘ' pojawia się ona na profilu użytkownika
+![image](https://github.com/user-attachments/assets/310a292a-747d-40b5-a097-b03bee4fbc42)
+
+
 ## Technologie
 
 - Frontend: HTML, CSS, jQuery
